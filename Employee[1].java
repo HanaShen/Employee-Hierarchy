@@ -7,7 +7,7 @@ package employee;
 
 /**
  *
- * @author hanaa
+ * @author hana
  */
 public abstract class Employee {
     private final String firstName;
