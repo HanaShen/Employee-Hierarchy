@@ -7,7 +7,7 @@ package employee;
 
 /**
  *
- * @author hanaa
+ * @author hana
  */
 public class SalariedEmployee extends Employee {
     private double salary;
